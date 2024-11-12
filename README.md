@@ -1,2 +1,2 @@
-# Person-Project
+# Computer-Project
 A system for managing a store for selling computer needs
